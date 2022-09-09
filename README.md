@@ -1,3 +1,5 @@
+Forked from [timhor/obsidian-editor-shortcuts](https://github.com/timhor/obsidian-editor-shortcuts).
+
 # Code Editor Shortcuts
 
 This [Obsidian](https://obsidian.md) plugin adds keyboard shortcuts (hotkeys) commonly found in code editors such as Visual Studio Code or Sublime Text.
@@ -70,6 +72,8 @@ To get started:
 
 ## Support
 
-This plugin is completely free to use, but if you'd like to say thanks, consider buying me a coffee! 😄
+This plugin is completely free to use, but if you'd like to say thanks to the original author ([timhor](https://github.com/timhor/)), consider buying them a coffee! 😄
+
+Original author's Ko-fi:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C59A43G)
