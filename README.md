@@ -72,9 +72,7 @@ To get started:
 
 ## Support
 
-This plugin is completely free to use, but if you'd like to support the original author (timhor), consider buying them a coffee! 😄
-
-Upstream repository: [timhor/obsidian-editor-shortcuts](https://github.com/timhor/obsidian-editor-shortcuts)
+This plugin is completely free to use, but if you'd like to say thanks to the original author ([timhor](https://github.com/timhor/)), consider buying them a coffee! 😄
 
 Original author's Ko-fi:
 
